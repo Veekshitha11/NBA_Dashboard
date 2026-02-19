@@ -1,0 +1,32 @@
+🏀 PLAYER ANALYTICS – AUTO-GENERATED INSIGHTS
+
+🔥 Top 5 Scorers in the League:
+- James Harden averaged 34.9 PPG.
+- James Harden averaged 33.2 PPG.
+- Kobe Bryant averaged 33.0 PPG.
+- Russell Westbrook averaged 30.9 PPG.
+- LeBron James averaged 30.8 PPG.
+
+
+🎯 Player Roles (Cluster-Based):
+- Role Player: 4938 players
+- Star Player: 3540 players
+- Bench Player: 2859 players
+
+
+📉 Most Consistent Players:
+- Rob Gray (Std Dev: 0.00)
+- Kellan Grady (Std Dev: 0.00)
+- David Wear (Std Dev: 0.00)
+- Arnoldas Kulboka (Std Dev: 0.00)
+- Lamar Peters (Std Dev: 0.00)
+
+
+🔮 Players Projected to Score Highly in Future Games:
+- Kevin Durant is projected 20.7 PTS per game.
+- LeBron James is projected 20.6 PTS per game.
+- Kobe Bryant is projected 20.0 PTS per game.
+- Allen Iverson is projected 19.7 PTS per game.
+- Damian Lillard is projected 19.5 PTS per game.
+
+✓ End of insights.
