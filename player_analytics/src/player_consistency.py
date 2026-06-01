@@ -5,7 +5,7 @@ import pandas as pd
 # Add script directory to path so imports work when run from base directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
 if script_dir not in sys.path:
-    sys.path.insert(0, script_dir)
+    sys.path.insert (0, script_dir)
 
 from player_loader import load_player_data
 
